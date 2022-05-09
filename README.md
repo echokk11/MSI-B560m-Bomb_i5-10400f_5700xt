@@ -6,7 +6,7 @@
 - ssd: 三星 nvme 970 evo plus 500G
 - PCI免驱网卡: Fenv-T919 (便于使用wifi和bluetooth)
 
-### 完美运行Monterey 12.3.1
+### 完美运行Monterey 12.3.1 基于opencore 0.8.0
 
 icloud可登录，airdrop，接力，隔空等都可以正常使用，wifi正常，2.5g有线正常，内置声卡正常，睡眠正常
 
