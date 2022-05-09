@@ -34,13 +34,13 @@ USB已定制，其实爆破弹这块板不定制也不会超过15个😂
 
 ### 部分系统截图分享
 
-<img src="/Users/watchmen/Documents/hackintosh/resources/1.jpg" alt="1" style="zoom:50%;" />
+<img src="./resources/1.jpg" alt="1" style="zoom:50%;" />
 
-<img src="/Users/watchmen/Documents/hackintosh/resources/2.jpg" alt="2" style="zoom:50%;" />
+<img src="./resources/2.jpg" alt="2" style="zoom:50%;" />
 
-<img src="/Users/watchmen/Documents/hackintosh/resources/3.jpg" alt="3" style="zoom:50%;" />
+<img src="./resources/3.jpg" alt="3" style="zoom:50%;" />
 
-<img src="/Users/watchmen/Documents/hackintosh/resources/4.jpg" alt="4" style="zoom:50%;" />
+<img src="./resources/4.jpg" alt="4" style="zoom:50%;" />
 
-<img src="/Users/watchmen/Documents/hackintosh/resources/5.jpg" alt="5" style="zoom:50%;" />
+<img src="./resources/5.jpg" alt="5" style="zoom:50%;" />
 
