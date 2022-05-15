@@ -18,6 +18,8 @@ USB已定制，其实爆破弹这块板不定制也不会超过15个😂
 
 2022年了，本人公司有配一台M1 MAX的MBP，家里有一台2019年的intel芯片带触控toolbar的MBP，为啥还要折腾hackintosh，搞程序的人都有这口折腾玩意的特殊癖好吧。这中间我花了很多时间看了很多英文的教程文档以及视频，熬了几宿的夜，一直到白色的苹果出现在PC的屏幕上时候其实还是有那么一点点兴奋的。去年我还折腾过一台AMD 3900X的hackintosh，[AMD-3900x](https://github.com/echokk11/AMD-3900x_MSI-MEG-UNIFY-X570_5700xt_hackintosh_opencore)，但是碍于虚拟方面有点问题就没有深度使用。
 
+我最近还装了台12代i7，地址在 https://github.com/echokk11/Hackintosh_i7-12700kf_ASUS-B660M-PLUS-D4_5700xt
+
 
 
 目前互联网上的教程太杂太乱，对于新手及其不友好，分享的东西也都是有头无尾，所以我打算写一篇详细的教程，敬请期待。
